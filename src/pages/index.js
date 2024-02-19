@@ -30,7 +30,7 @@ export default function Home() {
 
         <div>
           <h5 className={inter.className}>
-            [Angelica Callysta Viera] | [474719]
+            Angelica Callysta Viera | 474719
           </h5>
         </div>
       </main>
